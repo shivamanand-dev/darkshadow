@@ -1,5 +1,5 @@
 ---
-title:JavaScript - "Hello World"
+title: JavaScript - "Hello World"
 date: "2019-07-02"
 template: "post"
 draft: false
