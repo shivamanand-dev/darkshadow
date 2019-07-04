@@ -3,7 +3,7 @@
 module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
-  title: "Blog by John Doe",
+  title: "Blog by Shivam Anand",
   subtitle:
     "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   copyright: "© All rights reserved.",
@@ -29,10 +29,10 @@ module.exports = {
     photo: "/photo.jpg",
     bio: "Full-stack web developer in making",
     contacts: {
-      email: "#",
+      email: "shivamanand252@gmail.com",
       telegram: "#",
       twitter: "#",
-      github: "#",
+      github: "Shivam0Anand",
       rss: "#",
       vkontakte: "#"
     }
