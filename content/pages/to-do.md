@@ -1,9 +1,7 @@
 ---
-title: "About me"
+title: "TO-DO"
 template: "page"
 ---
-
-There's a lot I want to learn, and a lot I've learned and documented. Here's where I list both.
 
 ## To Write About
 
@@ -144,6 +142,6 @@ This is not everything I have written, but a good amount of the things I've docu
 
 ### JavaScript
 
-- [ ] [Variables](/javascript/variables/)
+- [x] [Variables](/javascript/variables/)
 - [x] [Code Structure](/javascript/code-structure/)
 - [x] [Hello World](/javascript/hello-world/)
