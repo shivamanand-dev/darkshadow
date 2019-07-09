@@ -4,8 +4,7 @@ module.exports = {
   url: "https://lumen.netlify.com",
   pathPrefix: "/",
   title: "darkshadow",
-  subtitle:
-    "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  subtitle: "Shivam Anand - Blog.",
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
