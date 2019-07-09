@@ -13,7 +13,6 @@ My current focus is **Computer Science** fundamentals and all things **JavaScrip
 
 ### _JavaScript Fundamentals_
 
-- [ ] Variables
 - [ ] Data Types
 - [ ] Operators
 - [ ] Comparisions
@@ -145,5 +144,6 @@ This is not everything I have written, but a good amount of the things I've docu
 
 ### JavaScript
 
+- [ ] [Variables](/javascript/variables/)
 - [x] [Code Structure](/javascript/code-structure/)
 - [x] [Hello World](/javascript/hello-world/)
