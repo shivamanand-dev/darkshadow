@@ -1,6 +1,6 @@
 ---
-title: JavaScript - "Code Structure"
-date: "2019-07-03"
+title: JavaScript - "String Methods"
+date: "2019-07-06"
 template: "post"
 draft: false
 slug: "/javascript/string-methods/"
@@ -8,5 +8,6 @@ category: "JavaScript"
 tags:
   - "JavaScript"
   - "Web Development"
-description: "It doesn’t matter if you are coding anything like HTML, CSS, JavaScript, Java, or any other kind of code. There is a structure to write every code and that is the building blocks of code."
+description: "String methods help you to work with strings.
+Primitive values, like "Shivam Anand", cannot have properties or methods (because they are not objects)."
 ---
