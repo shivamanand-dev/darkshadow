@@ -142,6 +142,7 @@ This is not everything I have written, but a good amount of the things I've docu
 
 ### JavaScript
 
+- [x] [String Methods](/javascript/string-methods/)
 - [x] [Variables](/javascript/variables/)
 - [x] [Code Structure](/javascript/code-structure/)
 - [x] [Hello World](/javascript/hello-world/)
