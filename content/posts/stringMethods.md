@@ -9,5 +9,5 @@ tags:
   - "JavaScript"
   - "Web Development"
 description: "String methods help you to work with strings.
-Primitive values, like "Shivam Anand", cannot have properties or methods (because they are not objects)."
+Primitive values, like 'Shivam Anand', cannot have properties or methods (because they are not objects)."
 ---
