@@ -14,7 +14,7 @@ Primitive values, like 'Shivam Anand', cannot have properties or methods (becaus
 
 ```
 The "String" object is used to represent and manipulate
- a sequence of characters.
+a sequence of characters.
 ```
 
 ---
