@@ -3,7 +3,7 @@ title: JavaScript - "String"
 date: "2019-07-06"
 template: "post"
 draft: false
-slug: "/javascript/string-methods/"
+slug: "/javascript/string/"
 category: "JavaScript"
 tags:
   - "JavaScript"
@@ -13,7 +13,8 @@ Primitive values, like 'Shivam Anand', cannot have properties or methods (becaus
 ---
 
 ```
-The "String" object is used to represent and manipulate a sequence of characters.
+The "String" object is used to represent and manipulate
+ a sequence of characters.
 ```
 
 ---
