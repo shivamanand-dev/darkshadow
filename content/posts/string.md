@@ -26,3 +26,5 @@ a sequence of characters.
 - Build and concatenate them using the `+ and += string operators`.
 - Checking for the existence or location of substrings with the ` indexOf()` method.
 - Extracting substrings with the `substring()` method.
+
+---
